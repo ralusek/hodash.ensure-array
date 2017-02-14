@@ -1,0 +1,23 @@
+{
+  "name": "hodash.ensure-array",
+  "version": "1.0.0",
+  "description": "Ensures that provided value is an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lodash",
+    "hodash",
+    "ES6",
+    "Set",
+    "Array",
+    "Cast",
+    "Enforce",
+    "Ensure",
+    "As"
+  ],
+  "author": "Tomas Savigliano",
+  "license": "ISC",
+  "dependencies": {}
+}
